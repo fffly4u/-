@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 网页去水印工具",
+  "description": "基于浏览器前沿 HTML5 Canvas 帧重构技术的无损去水印工具。支持图片画笔擦除、内容识别智能填充以及视频多选区高斯模糊、马赛克遮掩，纯前端完成不泄露隐私。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
